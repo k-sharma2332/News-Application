@@ -1,3 +1,6 @@
 {
-    "editor.fontSize": 16
+    "editor.fontSize": 16,
+    "workbench.colorTheme": "Abyss",
+    "workbench.preferredHighContrastColorTheme": "Visual Studio 2017 Light - C++",
+    "workbench.preferredDarkColorTheme": "Visual Studio 2017 Light - C++"
 }
